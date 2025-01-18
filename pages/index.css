@@ -234,9 +234,12 @@
 .form__input[type="checkbox"] {
   width: 20px;
   height: 20px;
-  background-color: #1878dc;
-  background-image: url(../images/check.svg);
   border-radius: 2px;
   margin: 0 12px 0 0;
   vertical-align: middle;
+}
+
+.form__input[type="checkbox"]:checked {
+  background-color: #1878dc;
+  background-image: url(../images/check.svg);
 }
