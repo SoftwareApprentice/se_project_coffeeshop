@@ -1,0 +1,29 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__logo {
+  max-width: 105px;
+  max-height: 39px;
+  position: relative;
+  left: 30px;
+  top: 30px;
+}
+
+.nav__links {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  column-gap: 20px;
+  position: relative;
+  top: 30px;
+  right: 80px;
+  font-weight: 500;
+}
+
+.nav__link {
+  text-decoration: none;
+  color: #000;
+}
