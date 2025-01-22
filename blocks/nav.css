@@ -26,4 +26,9 @@
 .nav__link {
   text-decoration: none;
   color: #000;
+  transition: opacity 0.2s linear;
+}
+
+.nav__link:hover {
+  opacity: 50%;
 }
