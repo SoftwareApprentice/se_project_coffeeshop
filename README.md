@@ -12,6 +12,9 @@ Flexbox and positioning are used to position elements to the respective design d
 - A custom form
 - CSS animation and transform
 
+![custom form](./images/sprint_2_custom_form_example.png)
+fig 1. custom form
+
 ## Plan on improving the project
 
 add a new blog post page where customers are able post their reviews and see other popular reviews.
