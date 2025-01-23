@@ -4,6 +4,8 @@
 }
 
 .card__title {
+  font-family: "Inter", "Arial", sans-serif;
+  font-style: normal;
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
@@ -19,7 +21,7 @@
 }
 
 .card__list-item {
-  font-family: "Noto Serif", "Timess New Roman", "serif";
+  font-family: "Noto Serif", "Timess New Roman", serif;
   font-size: 16px;
   line-height: 20px;
   list-style-type: none;

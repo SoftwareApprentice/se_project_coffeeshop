@@ -25,6 +25,8 @@
   max-width: 251px;
   position: relative;
   z-index: 1;
+  font-family: "Inter", "Arial", sans-serif;
+  font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -40,7 +42,7 @@
 }
 
 .about__paragraph {
-  font-family: "Noto Serif", "Timess New Roman", "serif";
+  font-family: "Noto Serif", "Timess New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   margin: 0;
