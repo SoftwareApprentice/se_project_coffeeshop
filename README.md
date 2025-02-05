@@ -1,3 +1,7 @@
+# Website URL
+
+[Coffeeshop Site](https://softwareapprentice.github.io/se_project_coffeeshop/)
+
 # Triple Peaks Coffee Shop
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief. BEM Convention abd Flat BEM file structure are used to improve organization and readability.
